@@ -19,20 +19,20 @@ I'm a software engineer in northwestern, PA. You can find me on [LinkedIn][3] or
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/patrickrizz/patrickrizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz&hide=css,html&title_color=0050ab&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz&hide=css,html&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a>
 
 <a href="https://github.com/patrickrizz/patrickrizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickrizz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickrizz&show_icons=true&line_height=27&count_private=true&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/patrickrizz/pat-rizzardi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=pat-rizzardi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=pat-rizzardi&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a>
 
 
 <a href="https://github.com/patrickrizz/weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=weather-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=weather-app&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a> 
 
 <!-- links to your social media accounts -->
