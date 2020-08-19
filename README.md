@@ -4,7 +4,7 @@ I am a software engineer in Northwestern, Pa. I build remarkable websites, and a
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=348ceb)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=348ceb)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode-idea&logoColor=white&color=348ceb)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=348ceb)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=348ceb)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=348ceb)
