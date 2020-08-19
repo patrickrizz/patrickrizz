@@ -1,6 +1,6 @@
 # Patrick Rizzardi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a software engineer in northwestern, PA. You can find me on [LinkedIn][3].
+I'm a software engineer in northwestern, PA. You can find me on [LinkedIn][3] or at [patrizzardi.com][1]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -36,8 +36,8 @@ I'm a software engineer in northwestern, PA. You can find me on [LinkedIn][3].
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
+[1]: https://patrizzardi.com
+[2]: https://github.com/patrizzardi
 [3]: https://www.linkedin.com/in/patrick-rizzardi/
 
 <!-- Resources -->
