@@ -22,7 +22,7 @@ I'm a software engineer in northwestern, PA. You can find me on [LinkedIn][3] or
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/patrickrizz/patrickrizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz&hide=css,theme=algolia" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patrickrizz)](https://github.com/patrickrizz/github-readme-stats)
 </a>
 <a href="https://github.com/patrickrizz/patrickrizz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickrizz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
