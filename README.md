@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz)]
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=patrickrizz&theme=algolia&show_icons=true)
 
 <!--
