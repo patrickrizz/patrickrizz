@@ -21,16 +21,12 @@ I am a software engineer in Northwestern, Pa. I build remarkable websites, and a
 <a href="https://github.com/patrickrizz/patrickrizz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrizz&hide=css,html&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a>
-
 <a href="https://github.com/patrickrizz/patrickrizz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickrizz&show_icons=true&line_height=27&count_private=true&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" alt="Martin's GitHub Stats" />
 </a>
-
 <a href="https://github.com/patrickrizz/pat-rizzardi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=pat-rizzardi&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a>
-
-
 <a href="https://github.com/patrickrizz/weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patrickrizz&repo=weather-app&title_color=348ceb&text_color=ffffff&icon_color=2bbc8a&bg_color=051736" />
 </a> 
